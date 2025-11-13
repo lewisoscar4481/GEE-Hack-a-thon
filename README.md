@@ -116,15 +116,24 @@ __*Your text and/or figures.*__
 _*Browse through the GEE Data catalogue and provide a link to your chosen dataset with a brief statement about why you chose it. Note you don't need to do analyses with this new dataset, you are just making a suggestion for future studies.*_
 
 __*Link and description of your chosen dataset*__
+We could use the Google DeepMind Global Drivers of Forest Loss dataset (Sims, M., Stanimirova, R., Raichuk, A., Neumann, M., Richter, J., Follett, F., MacCarthy, J., Lister, K., Randle, C., Sloat, L., Esipova, E., Jupiter, J., Stanton, C., Morris, D., Slay, C. M., Purves, D., and Harris, N. (2025). Global drivers of forest loss at 1 km resolution. Environmental Research Letters. doi:10.1088/1748-9326/add606). This dataset includes a multitude of factors that could lead to forest loss such as agriculture and wildfire. Mapping this dataset with our existing plots could show what is causing the deforestation. 
 
 _*BONUS! If you have the time, for some bonus recognition, map your chosen dataset in the GEE and include a visualisation of the dataset for your protected area (screencap from GEE).*_
 
 
 # 5. What research question and hypotheses would you test with those additional datasets in your proposed future research and why does that research matter for the park management?
 
-_*Add your answer here.*_
+Using this information, here are some of our proposed future research questions.
+
+- How much of this loss is due to logging?
+- How much of this loss is due to climate change?
+- How much of this loss is due to land use change?
+- What were the contributing factors to gains in forest coverage?
+
+We believe these questions could aid future conservation efforts and plans that are targeted to this specific area.
 
 
 # Conclusions
 
-_*Summarise what you have found in this challenge and its broader implications.*_
+Forest cover change in  Białowieża National Park has **significantly declined**. While there is some gain, it is incomparable to the amount of loss. As mentioned in our introduction and predictions, this is probably mostly due to the combined effects of logging and climate change.
+
