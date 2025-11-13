@@ -123,7 +123,14 @@ _*BONUS! If you have the time, for some bonus recognition, map your chosen datas
 
 # 5. What research question and hypotheses would you test with those additional datasets in your proposed future research and why does that research matter for the park management?
 
-_*Add your answer here.*_
+Using this information, here are some of our proposed future research questions.
+
+- How much of this loss is due to logging?
+- How much of this loss is due to climate change?
+- How much of this loss is due to land use change?
+- What were the contributing factors to gains in forest coverage?
+
+We believe these questions could aid future conservation efforts and plans that are targeted to this specific area.
 
 
 # Conclusions
