@@ -52,6 +52,12 @@ __How much forest cover loss and gain has occurred in Białowieża National Park
 _*Introduce the reader to your park and research questions that you are testing during this challenge in 200 words or fewer. You can include a few references if you would like.*_
 
 
+The National Park is situated in the north-east part of Poland, in podlaskie voivodeship. The Park covers the central part of Białowieża Forest. The Park covers the area of 10 517,27 ha, which constitutes 1/6 of the Polish part of Białowieża Forest. 6059,27 ha is under strict protection, 4104,63 ha is under active protection, and landscape protection covers the area of 353,37 ha. 
+
+There has been a protection zone created around the Park which covers the state commercial forest having an area of 3224,26 ha. This national reserve is exhibiting a major problem in capony reduction, with 26% of the entire Polish part of BF has been logged. This will have a serious impact on the natural dynamics in this area, making it crucial to employ conservation efforts.
+
+This report will discuss how much forest cover loss and gain has occurred in Białowieża National Park through mapping simulations on Googloe Earth Engine. This allows us to have a clear view of the change in forest canopy cover, allowing conservation efforts to be planned and implimented.
+
 # Workflow
 
 _*Write out or draw your workflow in text here, on paper or in a ppt slide and then take a photo of that to include.*_
@@ -60,6 +66,8 @@ _*Write out or draw your workflow in text here, on paper or in a ppt slide and t
 # Specific hypotheses and predictions
 
 _*What do you know about this protected area?  What sort of factors could influence forest cover change in this part of the world?*_
+
+Significant logging in 2017 due to the spruce dark beetle attacking the Norway spruce trees has had a detrimental effect on the forest cover in the national park. Norway spruce trees are also very sensitive to drought, which is becoming more prevalent due to climate change. We expect the pressure of drought to be increasingly weakening the forest canopy, in turn reducing the forest cover in the national park. 
 
 
 # Methods
@@ -83,7 +91,8 @@ _*Your maps*_
 
 
 # 2. Visualisation of the amount of forest cover loss and gain for your protected area
-![](<img width="2100" height="1500" alt="forest_barplot" src="https://github.com/user-attachments/assets/909d5905-67c9-4e08-99d1-7595e12ead6f" />)
+
+<img width="2100" height="1500" alt="forest_barplot" src="https://github.com/user-attachments/assets/1bc95876-d15f-4cca-8617-a0d716e98e0d" />
 
 
 
