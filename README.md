@@ -38,7 +38,7 @@ _*Add here.*_
 
 # Authors
 
-Charlotte Ault
+Charlotte Ault,
 Rowan McAllister
 
 
