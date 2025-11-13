@@ -33,17 +33,18 @@ _Use this document as a template to fill in as you progress through the challeng
 
 # Title
 
-_*Add here.*_
+Forest cover change in Białowieża National Park
 
 
 # Authors
 
 Charlotte Ault,
 Rowan McAllister
+Star Barbour
 
 
 # Research question
-__How much forest cover loss and gain has occurred in your protected area?__
+__How much forest cover loss and gain has occurred in Białowieża National Park?__
 
 
 # Introduction
