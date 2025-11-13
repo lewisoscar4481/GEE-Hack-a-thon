@@ -88,7 +88,7 @@ Your code
 _*Describe your results using appropriate scientific writing. Include maps of your protected area with informative captions.*_
 
 _*Your maps*_
-
+![alt text](https://github.com/lewisoscar4481/GEE-Hack-a-thon/blob/788d64ddaa8cac6a7f7834ff259e378dba144f3e/Images/Screenshot%202025-11-13%20at%2014.32.38.png)
 
 # 2. Visualisation of the amount of forest cover loss and gain for your protected area
 
