@@ -116,6 +116,7 @@ __*Your text and/or figures.*__
 _*Browse through the GEE Data catalogue and provide a link to your chosen dataset with a brief statement about why you chose it. Note you don't need to do analyses with this new dataset, you are just making a suggestion for future studies.*_
 
 __*Link and description of your chosen dataset*__
+We could use the Google DeepMind Global Drivers of Forest Loss dataset (Sims, M., Stanimirova, R., Raichuk, A., Neumann, M., Richter, J., Follett, F., MacCarthy, J., Lister, K., Randle, C., Sloat, L., Esipova, E., Jupiter, J., Stanton, C., Morris, D., Slay, C. M., Purves, D., and Harris, N. (2025). Global drivers of forest loss at 1 km resolution. Environmental Research Letters. doi:10.1088/1748-9326/add606). This dataset includes a multitude of factors that could lead to forest loss such as agriculture and wildfire. Mapping this dataset with our existing plots could show what is causing the deforestation. 
 
 _*BONUS! If you have the time, for some bonus recognition, map your chosen dataset in the GEE and include a visualisation of the dataset for your protected area (screencap from GEE).*_
 
