@@ -52,6 +52,12 @@ __How much forest cover loss and gain has occurred in Białowieża National Park
 _*Introduce the reader to your park and research questions that you are testing during this challenge in 200 words or fewer. You can include a few references if you would like.*_
 
 
+The National Park is situated in the north-east part of Poland, in podlaskie voivodeship. The Park covers the central part of Białowieża Forest. The Park covers the area of 10 517,27 ha, which constitutes 1/6 of the Polish part of Białowieża Forest. 6059,27 ha is under strict protection, 4104,63 ha is under active protection, and landscape protection covers the area of 353,37 ha. 
+
+There has been a protection zone created around the Park which covers the state commercial forest having an area of 3224,26 ha. This national reserve is exhibiting a major problem in capony reduction, with 26% of the entire Polish part of BF has been logged. This will have a serious impact on the natural dynamics in this area, making it crucial to employ conservation efforts.
+
+This report will discuss how much forest cover loss and gain has occurred in Białowieża National Park through mapping simulations on Googloe Earth Engine. This allows us to have a clear view of the change in forest canopy cover, allowing conservation efforts to be planned and implimented.
+
 # Workflow
 
 _*Write out or draw your workflow in text here, on paper or in a ppt slide and then take a photo of that to include.*_
