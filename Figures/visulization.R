@@ -4,7 +4,7 @@ devtools::install_github('Mikata-Project/ggthemr') # to install the ggthemr pack
 # if you don't have it already
 library(ggthemr)  # to set a custom theme but non essential!
 library(forcats)  # to reorder categorical variables
-
+library(tidyverse)
 # Set theme for the plot
 ggthemr('dust', type = "outer", layout = "minimal")
 
@@ -19,11 +19,19 @@ setwd("/Users/katy/Desktop/DATA SCIENCE")
 forest_change <- read.csv("forest_change_Bialowieza1.csv")
 
 # Create identifier column for gain vs loss
-forest_change$type <- "Gain"
-forest_change$type <- "Loss"
+
+forest_long <- gather(forest_change[, c(32:63)],
+                   key = 'Gain',
+                   value = 'value')
+
+forest_long1<- separate ( data = forest_long,
+           col = 'Gain',
+           into= c('type', 'year'),
+           sep= '_')
 
 
-(forest_barplot <- ggplot(forest_change, aes(x = NAME, y = sum/GIS_AREA, 
+
+(forest_barplot <- ggplot(forest_long1, aes(x = type, y = value, 
                                              fill = fct_rev(type))) +
     geom_bar(stat = "identity", position = "dodge") +
     labs(x = NULL, y = "Forest change (% of park area)\n") +
@@ -34,7 +42,10 @@ forest_change$type <- "Loss"
           legend.title = element_blank(),  # gets rid of the legend title
           legend.background = element_rect(color = "black", 
                                            fill = "transparent",   # removes the white background behind the legend
-                                           linetype = "blank")))
+                                           linetype = "blank"))) +
+  labs(
+    x= "Bialowieza Forest"
+  )
 
 ggsave(forest_barplot, filename = "forest_barplot.png",
        height = 5, width = 7)
