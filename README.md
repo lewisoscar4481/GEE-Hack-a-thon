@@ -97,8 +97,9 @@ _*Your maps*_
 
 # 2. Visualisation of the amount of forest cover loss and gain for your protected area
 
-<img width="2100" height="1500" alt="forest_barplot" src="https://github.com/user-attachments/assets/1bc95876-d15f-4cca-8617-a0d716e98e0d" />
 
+
+<img width="2100" height="1500" alt="forest_barplot" src="https://github.com/user-attachments/assets/b749bdde-33c6-4a34-8057-7bfc165d087a" />
 
 
 
