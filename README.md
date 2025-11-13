@@ -61,6 +61,8 @@ _*Write out or draw your workflow in text here, on paper or in a ppt slide and t
 
 _*What do you know about this protected area?  What sort of factors could influence forest cover change in this part of the world?*_
 
+Significant logging in 2017 due to the spruce dark beetle attacking the Norway spruce trees has had a detrimental effect on the forest cover in the national park. Norway spruce trees are also very sensitive to drought, which is becoming more prevalent due to climate change. We expect the pressure of drought to be increasingly weakening the forest canopy, in turn reducing the forest cover in the national park. 
+
 
 # Methods
 
