@@ -40,7 +40,8 @@ Forest cover change in Białowieża National Park
 
 Charlotte Ault,
 Rowan McAllister,
-Star Barbour
+Star Barbour,
+Katy Scott
 
 
 # Research question
