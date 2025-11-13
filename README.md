@@ -39,7 +39,7 @@ Forest cover change in Białowieża National Park
 # Authors
 
 Charlotte Ault,
-Rowan McAllister
+Rowan McAllister,
 Star Barbour
 
 
@@ -74,6 +74,11 @@ Significant logging in 2017 due to the spruce dark beetle attacking the Norway s
 
 _*Describe your methods in brief including all of the datasets that you used with appropriate crediting/referencing/copyright for the datasets.*_
 
+We used Google Earth Engine to create a csv file with the gains and losses of tree coverage from 2000-2016 in Białowieża National Park. To do this, we utilized the Hansen Global Forest Change and WDPA data sources (citations included below).
+
+Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S. V. Stehman, S. J. Goetz, T. R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C. O. Justice, and J. R. G. Townshend. "High-Resolution Global Maps of 21st-Century Forest Cover Change." Science 342 (15 November): 850-53. 10.1126/science.1244693 Data available on-line at: https://glad.earthengine.app/view/global-forest-change.
+
+UNEP-WCMC and IUCN (year), Protected Planet: The World Database on Protected Areas (WDPA) [On-line], [insert month/year of the version used], Cambridge, UK: UNEP-WCMC and IUCN Available at: www.protectedplanet.net.
 
 # Data vis and summary methods
 
