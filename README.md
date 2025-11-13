@@ -61,7 +61,7 @@ This report will discuss how much forest cover loss and gain has occurred in Bia
 
 # Workflow
 
-_*Write out or draw your workflow in text here, on paper or in a ppt slide and then take a photo of that to include.*_
+<img width="1362" height="824" alt="Workflow" src="https://github.com/user-attachments/assets/69cd1434-8de9-4250-b273-abdd1e7af9a7" />
 
 
 # Specific hypotheses and predictions
