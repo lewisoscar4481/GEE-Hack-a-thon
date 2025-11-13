@@ -83,9 +83,9 @@ _*Your maps*_
 
 
 # 2. Visualisation of the amount of forest cover loss and gain for your protected area
-(you can use `R`)
+![](<img width="2100" height="1500" alt="forest_barplot" src="https://github.com/user-attachments/assets/909d5905-67c9-4e08-99d1-7595e12ead6f" />)
 
-__*Your text and/or figures.*__
+
 
 
 # 3. How do your results compare with your predictions? What do you think might explain the patterns you found?
