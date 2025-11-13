@@ -38,7 +38,7 @@ _*Add here.*_
 
 # Authors
 
-_*Add here.*_
+Charlotte Ault
 
 
 # Research question
