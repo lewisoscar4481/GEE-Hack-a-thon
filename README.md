@@ -106,10 +106,7 @@ _*Your maps*_
 
 # 3. How do your results compare with your predictions? What do you think might explain the patterns you found?
 
-_*Use your scientific and critical thinking skills to provide a conclusion summary statement of how land cover is changing across the protected area that you studied.*_
-
-__*Your text and/or figures.*__
-
+Our prediction was that there would be a loss in forest cover change, and there was.
 
 # 4. What other datasets, available within the GEE, could you use to test the potential drivers of forest cover change in your group's protected area that you identified in point #3. ?
 
