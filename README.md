@@ -39,6 +39,7 @@ _*Add here.*_
 # Authors
 
 Charlotte Ault
+Rowan McAllister
 
 
 # Research question
