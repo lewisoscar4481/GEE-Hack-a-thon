@@ -128,5 +128,5 @@ _*Add your answer here.*_
 
 # Conclusions
 
-Forest cover change in  Białowieża National Park has significantly declined. While there is some gain, it is incomparable to the amount of loss. As mentioned in our introduction and predictions, this is probably mostly due to the combined effects of logging and climate change.
+Forest cover change in  Białowieża National Park has **significantly declined**. While there is some gain, it is incomparable to the amount of loss. As mentioned in our introduction and predictions, this is probably mostly due to the combined effects of logging and climate change.
 
